@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## Hi Coders 👋
+### I am Shivansh Sharma 
+I love to code and share my knowledge
+> Recently intern in [Devcommunity India](https://devcommunity.in/)
+- 🔭 I’m currently working on Machine learning
 <!--
 **shivkaansh/shivkaansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
