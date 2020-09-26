@@ -1,8 +1,14 @@
 ## Hi Coders 👋
 ### I am Shivansh Sharma 
-I love to code and share my knowledge
-> Recently intern in [Devcommunity India](https://devcommunity.in/)
-- 🔭 I’m currently working on Machine learning
+I am a computer science student wit a coding profession. I like to automate things with python and loves to convert idea into a reality. 
+> I am recently working as an intern Lead Author in [Devcommunity India](https://devcommunity.in/author/shivanshsharma/). I like to write about recent technology.
+
+I am a web developer with React as a frontend and Django as a backend. My favorite technology stacks are
+* MERN
+* React+Django+SQL
+* MEAN
+ 
+- 🔭 I’m currently working on Machine learning Models.
 <!--
 **shivkaansh/shivkaansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
