@@ -18,6 +18,7 @@ I am a web developer with React as a frontend and Django as a backend. My favori
 [![Medium link](https://img.shields.io/badge/@shiv_ka_ansh-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@shiv_ka_ansh)
 [![Instagram Link](https://img.shields.io/badge/tech_tackles%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tech_tackles/)
 
+
 ## My Technology stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
@@ -26,9 +27,12 @@ I am a web developer with React as a frontend and Django as a backend. My favori
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-61dbfb?style=flat-square&logo=React&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![firebase](https://img.shields.io/badge/-Firebase-F6820D?style=flat-square&logo=firebase&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -38,7 +42,6 @@ I am a web developer with React as a frontend and Django as a backend. My favori
 ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
 ![C](https://img.shields.io/badge/Language%20-%blue.svg?&style=flat-square&logo=C&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white)
-
 
 
 
