@@ -40,7 +40,6 @@ I am a web developer with React as a frontend and Django as a backend. My favori
 ![flask](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat-square&logo=dart&logoColor=white")
 ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
-![C](https://img.shields.io/badge/Language%20-%blue.svg?&style=flat-square&logo=C&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white)
 
 
