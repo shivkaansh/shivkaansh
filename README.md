@@ -4,9 +4,12 @@ I am a computer science student wit a coding profession. I like to automate thin
 > I am recently working as an intern Lead Author in [Devcommunity India](https://devcommunity.in/author/shivanshsharma/). I like to write about recent technology.
 
 I am a web developer with React as a frontend and Django as a backend. My favorite technology stacks are
-* ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) + ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge) + ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white) + ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+
+* ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white) + ![firebase](https://img.shields.io/badge/-Firebase-F6820D?style=for-the-badge&logo=firebase&logoColor=white)
 
 * ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white) + ![django](https://img.shields.io/badge/-Django-13aa52?style=for-the-badge&logo=django&logoColor=white) + ![sql](https://img.shields.io/badge/-SQL-13aa52?style=for-the-badge&logo=sql&logoColor=white)
+
+* ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) + ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge) + ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white) + ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 
 * ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) + ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge) + ![Angular](https://img.shields.io/badge/-angular-red?style=for-the-badge&logo=Angular&logoColor=white) + ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 
@@ -38,10 +41,15 @@ I am a web developer with React as a frontend and Django as a backend. My favori
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![django](https://img.shields.io/badge/-Django-13aa52?style=flat-square&logo=django&logoColor=white)
 ![flask](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat-square&logo=dart&logoColor=white")
-![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white)
+<!-- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat-square&logo=dart&logoColor=white")
+![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white) -->
 
+
+<!-- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2shivkaansh%2shivkaansh" alt="Hits"> -->
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkaansh&layout=compact&hide=html" /> -->
 
 
 <!--
