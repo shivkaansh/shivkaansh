@@ -11,7 +11,7 @@ I am a web developer with React as a frontend and Django as a backend. My favori
 
 * ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) + ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge) + ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white) + ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 
-* ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) + ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge) + ![Angular](https://img.shields.io/badge/-angular-red?style=for-the-badge&logo=Angular&logoColor=white) + ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+<!-- * ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) + ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge) + ![Angular](https://img.shields.io/badge/-angular-red?style=for-the-badge&logo=Angular&logoColor=white) + ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white) -->
 
 
 ## Catch me on
