@@ -28,8 +28,6 @@ I am a web developer with React as a frontend and Django as a backend. My favori
 
 ## My Technology stack
 
----
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)![Progress](https://progress-bar.dev/70/?logo=python&scale=100&width=450&color=blue&suffix=%)
 
 
