@@ -49,7 +49,7 @@ I am a web developer with React as a frontend and Django as a backend. My favori
 <!-- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2shivkaansh%2shivkaansh" alt="Hits"> -->
 
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkaansh&layout=compact&hide=html" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkaansh&layout=compact&hide=html" />
 
 
 <!--
