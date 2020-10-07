@@ -42,9 +42,7 @@ I am recently working as an intern Lead Author in [Devcommunity India](https://d
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![Progress](https://progress-bar.dev/95/?logo=python&scale=100&width=450&color=blue&suffix=%)
 
 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-![Progress](https://progress-bar.dev/90/?logo=python&scale=100&width=450&color=blue&suffix=%)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![Progress](https://progress-bar.dev/90/?logo=python&scale=100&width=450&color=blue&suffix=%)
 
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)![Progress](https://progress-bar.dev/95/?logo=python&scale=100&width=450&color=blue&suffix=%)
