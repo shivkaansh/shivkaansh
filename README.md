@@ -1,4 +1,4 @@
-## Hi Coders 👋 - Shivansh Sharma this Side!!
+# Hi Coders 👋 - Shivansh Sharma this Side!!
 
 
 <img align="center" alt="shivkaansh" src="https://github-readme-stats.vercel.app/api?username=shivkaansh&show_icons=true&theme=dracula&hide_border=true&" />
@@ -7,9 +7,11 @@
 
 I am recently working as an intern Lead Author in [Devcommunity India](https://devcommunity.in/author/shivanshsharma/). I like to write about recent technology.
 
-I am a web developer with React as a frontend and Django as a backend. My favorite technology stacks are
+## Some of my favorite technology stacks are
 
 * ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white) + ![firebase](https://img.shields.io/badge/-Firebase-F6820D?style=for-the-badge&logo=firebase&logoColor=white)
+
+* ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap) + ![flask](https://img.shields.io/badge/-Flask-white?style=for-the-badge&logo=flask&logoColor=black) + ![sql](https://img.shields.io/badge/-SQL-13aa52?style=for-the-badge&logo=sql&logoColor=white)
 
 * ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white) + ![django](https://img.shields.io/badge/-Django-13aa52?style=for-the-badge&logo=django&logoColor=white) + ![sql](https://img.shields.io/badge/-SQL-13aa52?style=for-the-badge&logo=sql&logoColor=white)
 
@@ -40,7 +42,9 @@ I am a web developer with React as a frontend and Django as a backend. My favori
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![Progress](https://progress-bar.dev/95/?logo=python&scale=100&width=450&color=blue&suffix=%)
 
 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![Progress](https://progress-bar.dev/90/?logo=python&scale=100&width=450&color=blue&suffix=%)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+![Progress](https://progress-bar.dev/90/?logo=python&scale=100&width=450&color=blue&suffix=%)
 
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)![Progress](https://progress-bar.dev/95/?logo=python&scale=100&width=450&color=blue&suffix=%)
@@ -76,7 +80,7 @@ I am a web developer with React as a frontend and Django as a backend. My favori
 ![django](https://img.shields.io/badge/-Django-13aa52?style=flat-square&logo=django&logoColor=white)![Progress](https://progress-bar.dev/70/?logo=python&scale=100&width=450&color=blue&suffix=%) -->
 
 
-<!-- ![flask](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)![Progress](https://progress-bar.dev/80/?logo=python&scale=100&width=450&color=blue&suffix=%) -->
+![flask](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)![Progress](https://progress-bar.dev/80/?logo=python&scale=100&width=450&color=blue&suffix=%)
 
 <!-- 
 ![tensorflow](https://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white)![Progress](https://progress-bar.dev/70/?logo=python&scale=100&width=450&color=blue&suffix=%) -->
@@ -89,7 +93,7 @@ I am a web developer with React as a frontend and Django as a backend. My favori
 <!-- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2shivkaansh%2shivkaansh" alt="Hits"> -->
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkaansh&layout=compact&hide=html" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkaansh&layout=compact&hide=html" /> -->
 
 
 <!--
