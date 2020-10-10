@@ -30,7 +30,7 @@ I am recently working as an intern Lead Author in [Devcommunity India](https://d
 [![Medium link](https://img.shields.io/badge/@shiv_ka_ansh-1-black.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shiv_ka_ansh)
 [![Instagram Link](https://img.shields.io/badge/tech_tackles-75-red.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tech_tackles/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-198-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-sharma-801297158/)
-[![Stackoverflow](https://img.shields.io/badge/shiv_ka_ansh-17-393939.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://www.linkedin.com/in/shivansh-sharma-801297158/)
+[![Stackoverflow](https://img.shields.io/badge/shiv_ka_ansh-17-393939.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13086315/shiv-ka-ansh)
 
 <!-- ![stackoverflow](https://meta.stackoverflow.com/users/flair/13086315.png?theme=dark) -->
 
