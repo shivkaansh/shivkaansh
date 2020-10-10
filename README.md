@@ -3,6 +3,9 @@
 
 <img align="center" alt="shivkaansh" src="https://github-readme-stats.vercel.app/api?username=shivkaansh&show_icons=true&theme=dracula&hide_border=true&" />
 
+<!-- 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkaansh&theme=black" /> -->
+
 ---
 
 I am recently working as an intern Lead Author in [Devcommunity India](https://devcommunity.in/author/shivanshsharma/). I like to write about recent technology.
@@ -22,11 +25,11 @@ I am recently working as an intern Lead Author in [Devcommunity India](https://d
 
 ## Catch me on
 
-[![Twitter Link](https://img.shields.io/twitter/follow/shiv_ka_ansh13?color=1DA1F2&label=%40shiv_ka_ansh13&logo=Twitter&style=flat)](https://twitter.com/shiv_ka_ansh13)
-[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Shiv_ka_ansh_13?color=orange&label=shiv_ka_ansh13&style=flat&logo=reddit)](https://www.reddit.com/user/Shiv_ka_ansh_13)
-[![Medium link](https://img.shields.io/badge/@shiv_ka_ansh-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@shiv_ka_ansh)
-[![Instagram Link](https://img.shields.io/badge/tech_tackles%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tech_tackles/)
-
+[![Twitter Link](https://img.shields.io/twitter/follow/shiv_ka_ansh13?color=1DA1F2&label=%40shiv_ka_ansh13&logo=Twitter&style=for-the-badge)](https://twitter.com/shiv_ka_ansh13)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Shiv_ka_ansh_13?color=orange&label=shiv_ka_ansh13&style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Shiv_ka_ansh_13)
+[![Medium link](https://img.shields.io/badge/@shiv_ka_ansh-black.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shiv_ka_ansh)
+[![Instagram Link](https://img.shields.io/badge/tech_tackles%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tech_tackles/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-sharma-801297158/)
 
 ## My Technology stack
 
@@ -78,7 +81,7 @@ I am recently working as an intern Lead Author in [Devcommunity India](https://d
 ![django](https://img.shields.io/badge/-Django-13aa52?style=flat-square&logo=django&logoColor=white)![Progress](https://progress-bar.dev/70/?logo=python&scale=100&width=450&color=blue&suffix=%) -->
 
 
-![flask](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)![Progress](https://progress-bar.dev/80/?logo=python&scale=100&width=450&color=blue&suffix=%)
+![flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white)![Progress](https://progress-bar.dev/80/?logo=python&scale=100&width=450&color=blue&suffix=%)
 
 <!-- 
 ![tensorflow](https://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white)![Progress](https://progress-bar.dev/70/?logo=python&scale=100&width=450&color=blue&suffix=%) -->
