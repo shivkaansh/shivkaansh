@@ -7,7 +7,7 @@
 
 ---
 
-I am recently working as an intern Lead Author in [Devcommunity India](https://devcommunity.in/author/shivanshsharma/). I like to write about recent technology.
+I am recently working as an intern Lead Author in [Devcommunity India](https://devcommunity.in/author/shivanshsharma/). I like to write about latest technologies and trends.
 
 ## Some of my favorite technology stacks are
 
