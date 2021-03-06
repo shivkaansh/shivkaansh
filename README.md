@@ -1,13 +1,13 @@
 # Hi Coders 👋 - Shivansh Sharma this Side!!
 
+
+### I am recently working as an intern Technical content writer at [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shiv_ka_ansh/articles). I like to write about Python and Javascript.
 <img align="center" alt="shivkaansh" src="https://github-readme-stats.vercel.app/api?username=shivkaansh&show_icons=true&theme=dracula&hide_border=true&" />
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkaansh&theme=black" /> -->
 
 ---
-
-I am recently working as an intern Lead Author in [Devcommunity India](https://devcommunity.in/author/shivanshsharma/). I like to write about latest technologies and trends.
 
 ## Some of my favorite technology stacks are
 
@@ -34,40 +34,25 @@ I am recently working as an intern Lead Author in [Devcommunity India](https://d
 
 ## My Technology stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)![Progress](https://progress-bar.dev/70/?logo=python&scale=100&width=450&color=blue&suffix=%)
-
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)![Progress](https://progress-bar.dev/95/?logo=python&scale=100&width=450&color=blue&suffix=%)
-
-![cpp](https://img.shields.io/badge/C++-%230175C2.svg?&style=flat-square&logo=cplusplus&logoColor=white")![Progress](https://progress-bar.dev/60/?logo=python&scale=100&width=450&color=blue&suffix=%)
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![Progress](https://progress-bar.dev/95/?logo=python&scale=100&width=450&color=blue&suffix=%)
-
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![Progress](https://progress-bar.dev/90/?logo=python&scale=100&width=450&color=blue&suffix=%)
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)![Progress](https://progress-bar.dev/95/?logo=python&scale=100&width=450&color=blue&suffix=%)
-
-![React](https://img.shields.io/badge/-React-61dbfb?style=flat-square&logo=React&logoColor=black)![Progress](https://progress-bar.dev/80/?logo=python&scale=100&width=450&color=blue&suffix=%)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![cpp](https://img.shields.io/badge/C++-%230175C2.svg?&style=for-the-badge&logo=cplusplus&logoColor=white")
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-61dbfb?style=for-the-badge&logo=React&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+![firebase](https://img.shields.io/badge/-Firebase-F6820D?style=for-the-badge&logo=firebase&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 <!-- ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)![Progress](https://progress-bar.dev/40/?logo=python&scale=100&width=450&color=blue&suffix=%) -->
-
 <!-- ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)![Progress](https://progress-bar.dev/70/?logo=python&scale=100&width=450&color=blue&suffix=%) -->
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)![Progress](https://progress-bar.dev/50/?logo=python&scale=100&width=450&color=blue&suffix=%)
-
-![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)![Progress](https://progress-bar.dev/60/?logo=python&scale=100&width=450&color=blue&suffix=%)
-
-![firebase](https://img.shields.io/badge/-Firebase-F6820D?style=flat-square&logo=firebase&logoColor=white)![Progress](https://progress-bar.dev/65/?logo=python&scale=100&width=450&color=blue&suffix=%)
-
-![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square)![Progress](https://progress-bar.dev/50/?logo=python&scale=100&width=450&color=blue&suffix=%)
-
-![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white)![Progress](https://progress-bar.dev/90/?logo=python&scale=100&width=450&color=blue&suffix=%)
-
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)![Progress](https://progress-bar.dev/80/?logo=python&scale=100&width=450&color=blue&suffix=%)
-
 <!--
 ![django](https://img.shields.io/badge/-Django-13aa52?style=flat-square&logo=django&logoColor=white)![Progress](https://progress-bar.dev/70/?logo=python&scale=100&width=450&color=blue&suffix=%) -->
 
-![flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white)![Progress](https://progress-bar.dev/80/?logo=python&scale=100&width=450&color=blue&suffix=%)
 
 <!--
 ![tensorflow](https://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white)![Progress](https://progress-bar.dev/70/?logo=python&scale=100&width=450&color=blue&suffix=%) -->
