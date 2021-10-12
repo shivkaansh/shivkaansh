@@ -2,7 +2,7 @@
 
 
 ### I am recently working as an intern Technical content writer at [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shiv_ka_ansh/articles). I like to write about Python and Javascript.
-<img align="center" alt="shivkaansh" src="https://github-readme-stats.vercel.app/api?username=shivkaansh&show_icons=true&theme=dracula&hide_border=true&" />
+<img align="center" alt="shivanshsharma13" src="https://github-readme-stats.vercel.app/api?username=shivanshsharma13&show_icons=true&theme=dracula&hide_border=true&" />
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkaansh&theme=black" /> -->
@@ -62,7 +62,7 @@
 
 <!-- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2shivkaansh%2shivkaansh" alt="Hits"> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkaansh&layout=compact&hide=html" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshsharma13&layout=compact&hide=html" />
 
 <!--
 **shivkaansh/shivkaansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
