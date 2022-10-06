@@ -4,22 +4,7 @@
 ### I am recently working as an intern Technical content writer at [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shiv_ka_ansh/articles). I like to write about Python and Javascript.
 <img align="center" alt="shivanshsharma13" src="https://github-readme-stats.vercel.app/api?username=shivanshsharma13&show_icons=true&theme=dracula&hide_border=true&" />
 
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkaansh&theme=black" /> -->
-
----
-
-## Some of my favorite technology stacks are
-
-- ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)![+](https://img.shields.io/badge/-%2B-white?color=white&style=for-the-badge)![firebase](https://img.shields.io/badge/-Firebase-F6820D?style=for-the-badge&logo=firebase&logoColor=white)
-
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)![+](https://img.shields.io/badge/-%2B-white?color=white&style=for-the-badge)![flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=white)![+](https://img.shields.io/badge/-%2B-white?color=white&style=for-the-badge)![sql](https://img.shields.io/badge/-SQL-13aa52?style=for-the-badge&logo=sql&logoColor=white)
-
-- ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)![+](https://img.shields.io/badge/-%2B-white?color=white&style=for-the-badge)![django](https://img.shields.io/badge/-Django-13aa52?style=for-the-badge&logo=django&logoColor=white)![+](https://img.shields.io/badge/-%2B-white?color=white&style=for-the-badge)![sql](https://img.shields.io/badge/-SQL-13aa52?style=for-the-badge&logo=sql&logoColor=white)
-
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)![+](https://img.shields.io/badge/-%2B-white?color=white&style=for-the-badge)![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)![+](https://img.shields.io/badge/-%2B-white?color=white&style=for-the-badge)![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)![+](https://img.shields.io/badge/-%2B-white?color=white&style=for-the-badge)![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-
-<!-- * ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) + ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge) + ![Angular](https://img.shields.io/badge/-angular-red?style=for-the-badge&logo=Angular&logoColor=white) + ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shivanshsharma13&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Catch me on
 
@@ -66,6 +51,9 @@
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivanshsharma13.shivanshsharma13)
+
+[![Shivansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shivanshsharma13&bg_color=000000&color=00FF00&line=FFFF00&point=964B00&area=true&hide_border=false)](https://https://github.com/shivanshsharma13?tab=repositories)
+
 <!--
 **shivkaansh/shivkaansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
